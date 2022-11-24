@@ -1,0 +1,13 @@
+@mixin nini1($disp, $content) {
+    display: $disp;
+    justify-content: $content;
+}
+
+@mixin sigane {
+    width: 200px;
+    
+}
+
+@mixin zoma {
+    width: 300px;
+}
